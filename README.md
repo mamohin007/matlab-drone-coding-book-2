@@ -9,7 +9,7 @@ MATLAB project files for:
 ## About this repository
 
 This repository contains the MATLAB project files for the 10 practical projects in *MATLAB Drone Coding for Beginners: Book 2*. The book continues from basic altitude-control coding and moves toward trajectory tracking, disturbance modelling, actuator saturation, structured PID tuning, and anti-windup methods.
-
+This repository is currently private and under preparation.
 The purpose of this repository is to support readers as they run, modify, and understand the MATLAB examples from the book.
 
 ## The 10 MATLAB projects
