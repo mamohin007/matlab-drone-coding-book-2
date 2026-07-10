@@ -2,7 +2,7 @@
 
 MATLAB project files for:
 
-**MATLAB Drone Coding for Beginners: Book 2**
+**MATLAB Drone Coding for Beginners - Book 2:**
 **From Trajectory Tracking to Realistic PID Control**
 **Dr Ma Mohin**
 
